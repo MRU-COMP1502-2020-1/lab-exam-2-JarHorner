@@ -4,6 +4,8 @@ import static org.junit.Assert.*;
 
 import java.util.HashSet;
 import java.util.Set;
+import lsystems_exceptions.LSystemSymbolException;
+import lsystems_exceptions.LSystemLengthException;
 
 import org.junit.Test;
 
